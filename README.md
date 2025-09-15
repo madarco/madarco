@@ -46,8 +46,8 @@
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcodalia/)  
-- 🐦 [Twitter / X](https://twitter.com/) _(optional)_  
-- 🌍 [My Website / Projects](https://madarco.net)  
+- 🐦 [Twitter / X](https://twitter.com/)
+- 🌍 [My Website](https://madarco.net)  
 
 ---
 
